@@ -1,5 +1,5 @@
 {
-  "productName": "Kekelal",
+  "productName": "Jojolo",
   "theme": {
     "color": "peach",
     "isDark": true
@@ -14,7 +14,7 @@
         "isGradient": true
       },
       {
-        "text": "Kekelal Dried Pepach"
+        "text": "Jojolo Dried Pepach"
       }
     ],
     "description": "Meticulously dried and packed in natural peach skin, Mokalot's peaches offer a burst of fruity sweetness anytime you need it. Treat yourself to a healthy snack that's simply delicious and rich in nutrients!",
@@ -177,12 +177,12 @@
         "isGradient": true
       },
       {
-        "text": "Choose Kekelal"
+        "text": "Choose Jojolo"
       }
     ],
-    "description": "Many people are tired of unhealthy snacks that are full of unwanted chemicals and sugars. It's hard to find a snack that is not only healthy but also savory and delicious to satisfy those cravings. But don't worry, Kekelal is here for you.",
+    "description": "Many people are tired of unhealthy snacks that are full of unwanted chemicals and sugars. It's hard to find a snack that is not only healthy but also savory and delicious to satisfy those cravings. But don't worry, Jojolo is here for you.",
     "problem": {
-      "title": "Before Using Kekelal",
+      "title": "Before Using Jojolo",
       "points": [
         "Unwanted chemicals and sugars in regular snacks",
         "Unhealthy snacks leading to poor diet",
@@ -191,7 +191,7 @@
       ]
     },
     "solution": {
-      "title": "After Using Kekelal",
+      "title": "After Using Jojolo",
       "points": [
         "100% natural and healthy, with no added sugars or preservatives",
         "Conveniently packed for a quick and easy snack",
