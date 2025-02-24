@@ -1,18 +1,25 @@
 {
-  "productName": "Magical Deals",
+  "productName": "Kekelal",
   "theme": {
-    "isDark": true,
-    "color": "teal"
+    "color": "peach",
+    "isDark": true
   },
   "heroSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "App", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Delight in Every Bite,"
+      },
+      {
+        "text": "Discover",
+        "isGradient": true
+      },
+      {
+        "text": "Kekelal Dried Pepach"
+      }
     ],
-    "description": "Fazzle.ia helps companies expand globally with seamless collaboration, making it easier to build and manage teams in 180+ countries.",
-    "imageUrl": "https://essentials.pixfort.com/saas/wp-content/uploads/sites/3/2020/05/saas-intro-mockup.png",
-    "buttonText": "Get Started"
+    "description": "Meticulously dried and packed in natural peach skin, Mokalot's peaches offer a burst of fruity sweetness anytime you need it. Treat yourself to a healthy snack that's simply delicious and rich in nutrients!",
+    "imageUrl": "https://example.com/peach-image.jpg",
+    "buttonText": "Shop Now"
   },
   "pricing": {
     "settings": {
@@ -160,32 +167,36 @@
       }
     ]
   },
-
   "problemSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "Gadget", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Say No to"
+      },
+      {
+        "text": "Unhealthy Snacks,",
+        "isGradient": true
+      },
+      {
+        "text": "Choose Kekelal"
+      }
     ],
-    "description": "Make data-driven decisions about where to invest your marketing budget, when to hire, and where there are opportunities for improvement.",
+    "description": "Many people are tired of unhealthy snacks that are full of unwanted chemicals and sugars. It's hard to find a snack that is not only healthy but also savory and delicious to satisfy those cravings. But don't worry, Kekelal is here for you.",
     "problem": {
-      "title": "Before Using Databox",
+      "title": "Before Using Kekelal",
       "points": [
-        "Data is scattered across multiple tools and teams",
-        "It takes too long to get the information you need",
-        "It's difficult to gain insights from your data",
-        "Decisions are based on intuition and assumptions",
-        "Creating reports manually takes a lot of time"
+        "Unwanted chemicals and sugars in regular snacks",
+        "Unhealthy snacks leading to poor diet",
+        "Lack of savory options for healthy snacks",
+        "Difficult to find convenient and tasty snacks"
       ]
     },
     "solution": {
-      "title": "After Using Databox",
+      "title": "After Using Kekelal",
       "points": [
-        "A centralized source of truth for data",
-        "Your team or clients can access the answers they need instantly",
-        "Clear visibility into company performance",
-        "Better decisions informed by data",
-        "Less time on reporting, more time on strategy"
+        "100% natural and healthy, with no added sugars or preservatives",
+        "Conveniently packed for a quick and easy snack",
+        "Deliciously sweet and savory to satisfy your cravings",
+        "Packed with nutrients for a health boost"
       ]
     }
   },
@@ -228,31 +239,67 @@
     "menu": {
       "title": "Menu",
       "items": [
-        { "name": "Home", "route": "/" },
-        { "name": "Services", "route": "/services" },
-        { "name": "Products", "route": "/products" },
-        { "name": "Pricing", "route": "/pricing" }
+        {
+          "name": "Home",
+          "route": "/"
+        },
+        {
+          "name": "Services",
+          "route": "/services"
+        },
+        {
+          "name": "Products",
+          "route": "/products"
+        },
+        {
+          "name": "Pricing",
+          "route": "/pricing"
+        }
       ]
     },
     "resources": {
       "title": "Resources",
       "items": [
-        { "name": "Documentation", "route": "/docs" },
-        { "name": "API Reference", "route": "/api" }
+        {
+          "name": "Documentation",
+          "route": "/docs"
+        },
+        {
+          "name": "API Reference",
+          "route": "/api"
+        }
       ]
     },
     "legal": {
       "title": "Legal Information",
       "items": [
-        { "name": "Privacy Policy", "route": "/privacy" },
-        { "name": "Terms & Conditions", "route": "/terms" }
+        {
+          "name": "Privacy Policy",
+          "route": "/privacy"
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms"
+        }
       ]
     },
     "socialLinks": [
-      { "name": "facebook", "link": "#" },
-      { "name": "tiktok", "link": "#" },
-      { "name": "vk", "link": "#" },
-      { "name": "dribbble", "link": "#" }
+      {
+        "name": "facebook",
+        "link": "#"
+      },
+      {
+        "name": "tiktok",
+        "link": "#"
+      },
+      {
+        "name": "vk",
+        "link": "#"
+      },
+      {
+        "name": "dribbble",
+        "link": "#"
+      }
     ],
     "copyright": "© 2024 Bekets. All Rights Reserved."
   },
